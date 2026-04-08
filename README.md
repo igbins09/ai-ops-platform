@@ -114,5 +114,3 @@ Richard Igbinoba
 richie@flowthinkers.com
 
 linkedin.com/in/richardigbinoba
-
-github.com/igbins09
