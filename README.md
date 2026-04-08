@@ -110,5 +110,9 @@ Telegram bot with topic-based routing. Alerts, daily briefs, agent status update
 ## Contact
 
 Richard Igbinoba
-richard.igbinoba@yahoo.com
+
+richie@flowthinkers.com
+
 linkedin.com/in/richardigbinoba
+
+github.com/igbins09
